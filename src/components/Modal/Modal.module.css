@@ -1,0 +1,9 @@
+.description_row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.symbol {
+  text-transform: uppercase;
+}
